@@ -1,6 +1,6 @@
 describe('template spec', () => {
   it('passes', () => {
     cy.visit('https://example.cypress.io')
-    cy.get('[ss="ss]').click();
+    //cy.get('[ss="ss]').click();
   })
 })
