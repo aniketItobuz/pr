@@ -1,3 +1,4 @@
 1. Cypress structure
 2. Reporting - Allure reporting
-3. 
+3. Git
+4. CI with jenkins
